@@ -1,0 +1,25 @@
+.services
+{
+    background-color: #f1f1f1;
+}
+
+
+.serviseDiv
+{
+    transition: all 0.6s;
+}
+.serviseDiv i
+{
+    color: #ff305b;
+    transition: all 0.7s;
+}
+.serviseDiv:hover
+{
+    background-color: white;
+    box-shadow: 2px 2px 20px rgba(128, 128, 128, 0.501);
+    
+}
+.serviseDiv:hover i
+{
+    transform: scale(1.2);
+}

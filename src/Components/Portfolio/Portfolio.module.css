@@ -1,0 +1,35 @@
+#porfolioDiv
+{
+    background-color: white;
+    height: fit-content;
+
+}
+.portfolioPics
+{
+    height:min-content;
+}
+.portfolioMenu button
+{
+    color: #333;
+    letter-spacing: 1px;
+    padding: 3px 12px;
+}
+.portfolioMenu button:focus, .portfolioMenu button.active
+{
+    color: #ff305b;
+}
+
+.portfolioPics, .allCategories
+{
+    transition: all 1s;
+    box-sizing: border-box;
+}
+
+.data
+{
+    background-color: #f1f1f1;
+}
+.data i
+{
+    color: #ff305b;
+}

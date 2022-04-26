@@ -1,0 +1,8 @@
+.blogDiv
+{
+     background-color: #f1f1f1; 
+}
+.blogDiv span, h6, p
+{
+    padding-left: 10px;
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Source+Sans+Pro:wght@300&display=swap');
+
+.homeDiv
+{
+  background-image: url(/src/img/slider/slider-01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.homeLayout
+{
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-weight: 600;
+  font-size: 25px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+}
+.homeLayout h1
+{
+  color: #ff305b;
+  font-size: 70px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}

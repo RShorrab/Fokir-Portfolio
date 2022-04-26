@@ -1,0 +1,24 @@
+.feedback
+{
+    
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    position: relative;
+    overflow: hidden;
+}
+.feedback img
+{
+    width: 120px;
+    z-index: 100;
+}
+.shape
+{
+    width: 400px;
+    height: 200px;
+    background-color: #ff305b;
+    position: absolute;
+    top: -60px;
+    left: -200px;
+
+    transform: rotate(-45deg);
+}
